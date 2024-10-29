@@ -15,4 +15,3 @@ Aquí puedes escribir contenido en **Markdown** y editarlo desde GitHub.
 
 ![xd](https://64.media.tumblr.com/8cbab7d522f75cdafeae6a5d25d5f429/8ad4148f363f00f2-e2/s540x810/6dce29321acee88b48e4752ad02570038525e675.pnj)
 
-![ img ]( [/img/cualquiera.jpg](https://64.media.tumblr.com/8cbab7d522f75cdafeae6a5d25d5f429/8ad4148f363f00f2-e2/s540x810/6dce29321acee88b48e4752ad02570038525e675.pnj)#center )
