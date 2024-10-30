@@ -55,6 +55,30 @@ export default function Home({ contentHtml }) {
           background-color: #f6f8fa;
           font-style: italic;
           }
+          
+          /* Estilo para Inline Code */
+          
+        code {
+          background-color: #f6f8fa;
+          border-radius: 3px;
+          padding: 0.2em 0.4em;
+          font-size: 85%;
+          font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+          color: #d73a49;
+        }
+
+        /* Estilo para Blocks of Code */
+        
+        pre {
+          background-color: #f6f8fa;
+          padding: 1em;
+          border-radius: 6px;
+          overflow-x: auto;
+        }
+        pre code {
+          background: none;
+          color: #2f363d;
+        }
       `}</style>
       <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </main>
