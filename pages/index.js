@@ -47,6 +47,14 @@ export default function Home({ contentHtml }) {
           background-color: #f6f8fa;
           font-weight: bold;
         }
+        blockquote {
+          border-left: 4px solid #dfe2e5;
+          color: #6a737d;
+          padding: 0.5em 1em;
+          margin: 1.5em 0;
+          background-color: #f6f8fa;
+          font-style: italic;
+          }
       `}</style>
       <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </main>
