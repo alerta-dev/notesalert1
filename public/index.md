@@ -22,5 +22,7 @@ y se puedan al mismo tiempo añadir notas de referencias que se puede hacer a tr
 
 Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una mini historia nueva? Si, pero esto debe de tomarse con cuidado y se tiene que tener mucha comunicación con el  equipo de guionistas
 
+### Proceso de creación del video (Editores)
+El proceso de los editores se basa mucho en experimentar. Seguir el guion como su fuera un plano, pero en este plan todos pueden colaborar añadiendo de su propia cosecha, pero todo tipo de cosa que quieran añadir intenten consultarla con el equipo, para ver detalles que podrían llegar a ser inecesarios o que arruinen el chiste de ciertos segmentos. El proceso basico del editor sería seguir el guion y editar segun su estilo. Si hay escenas donde alguien dice un dialogo y no se especifica la persona o queda como **Persona random dialogo** Puedes consultar con el staff y añadir a quien gustes. 
 
 
