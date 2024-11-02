@@ -38,7 +38,7 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 ### Canales de ayuda (Guiones)
 ```Videos Relevantes:``` Es un canal donde ustedes deberán poner los videos mas relevantes de este año, videos que han sido de gran potencial tanto argumentativo como visual, videos que generalmente tienen impacto en el publico de la comunidad. Videos destacados ETC...
 
-```Ideas de escenas:``` Es el canal donde pondran todas las ideas de escenas que se les ocurran, ya sea por echos que han sucedido en la comunidad y quieren crear una escena parodiando la situación o si tienen algo ingenioso en mente que quieran explotar. (De preferencia incluir también el contexto del porque esta esceana y sus diferentes referencias)
+```Ideas de escenas:``` Es el canal donde pondran todas las ideas de escenas que se les ocurran, ya sea por echos que han sucedido en la comunidad y quieren crear una escena parodiando la situación o si tienen algo ingenioso en mente que quieran explotar. **(De preferencia incluir también el contexto del porque esta esceana y sus diferentes referencias)**
 
 ```Contexto 2024:``` Es el canal donde me gustaría que pongan contexto de echos, eventos, situaciones, dinamicas, cosas que han sucedido en la comunidad y que sean de relevansia, coloquemos el contexto para poder comprender y escribir alguna que otra escena.
 
