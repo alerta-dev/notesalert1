@@ -7,23 +7,27 @@ comunicar al Staff del proyecto, estaremos ayudandoles a todos en cada cosa que 
 > Intenten ser responsables con las entregas para no quedar en otro proyecto cancelado por falta de compromiso, ya que es lo que menos queremos. 
 
 ### Fichajes
-|    Editores   |  Guionistas   |
-| ------------- |:-------------:|
-| Wrench        | Alert         |
-| AifeFox       | -             |
-| Aritmell      | -             |
-| Hasterbook    | -             |
-| DannyKuroki   | -             |
-| Univale       | -             |
-| Win           | -             |
-| Airen         | -             |
-| LuisFriends   | -             |
-| AlexLoquendo  | -             |
-| Chocolatito   | -             |
-| Chrisbrur     | -             |
-| Ganta         | -             |
-| Isma          | -             |
-| Nirazu        | -             |
+|    Editores   |  Guionistas   |    Ayudantes | 
+| ------------- |:-------------:|------------- |
+| Wrench        | Alert         | Non          |
+| AifeFox       | -             |              |
+| Aritmell      | -             |              |
+| Hasterbook    | -             |              |
+| DannyKuroki   | -             |              |
+| Univale       | -             |              |
+| Win           | -             |              |
+| Airen         | -             |              |
+| LuisFriends   | -             |              |
+| AlexLoquendo  | -             |              |
+| Chocolatito   | -             |              |
+| Chrisbrur     | -             |              |
+| Ganta         | -             |              |
+| Isma          | -             |              |
+| Nirazu        | -             |              |
+| Raiyuga       | -             |              |
+| Fugo          | -             |              |
+| Naiks         | -             |              |
+| Ztar          | -             |              |
 
 ### Proceso de creación del video (Guionistas)
 El proceso de creación basicamenta comienza con los **Guionistas** son las personas que van a tener que comenzar a convocar ```Sucesos de la comunidad``` Esta parte es muy importante
