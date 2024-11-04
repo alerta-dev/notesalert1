@@ -54,12 +54,21 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - Last One Standing (Torneo del peleas en el coliseo)
 - Big Loquendo House (Torneo Loquendero)
 - MesDelLoquendo
-- a
-- a
-- a
-- a
+- La Carrera Loquendera
+- Copa Mundial del Loquendo 2024
+- Entrega de Premios Loquendo
+- Collab de Verano: Estación Loquendo creo un collab de verano.
 - a
   
 > Sucesos de la comunidad
 
-- tio ozzy
+- Tio Ozzy: Bolly publica una noticia falsa sobre la muerte de Ozzy y trolea a toda la comunidad.
+- Tierlist Loquendera: Se realiza la tierlist de este año, teniendo 1743 loquenderos en ella, algunos de GTA se quejaron, pero mas halla de eso fue buena actividad.
+- La pelea de tenshinhan888 y Princepride: Sin contexto.
+- Serro Loquendo (Sentido Loquendo): Sentido Loquendo dejo de ser tan activo como antes, posteriormente a eso le cambiaron el nombre a Serro Loquendo.
+- Estación Loquendo: Nacimiento del grupo.
+- Pou triste en Estación Loquendo: memes con el pou triste.
+- Entrevista con la voz de carlos de loquendo: Un grupo de loquenderos entrevistaron a la voz de carlos loquendo.
+- a
+- a
+- a
