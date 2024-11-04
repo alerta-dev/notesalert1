@@ -81,5 +81,10 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - Un serro lleno de los staff de Sentido Loquendo, y de la nada viene un tren y los atropella alv, luego de eso empizan a construir una estación de loquenderos.
 - Poner a Trolencio encerrado en la carcel por la demanda que le hicieron.
 - una loquendera invoca para a un loquendero porque es una pinche vieja loca que esta enamorado el, y lo sigue en toda la carretera de loquendo city, al final aparece resi cupido dando cierre la ecena. [Enlace](https://cdn.discordapp.com/attachments/945239276084420638/1303040058198196346/verbalase-charlie.gif?ex=672a4e1f&is=6728fc9f&hm=b32300b262a8ede1c10211c0308fe7d8c9a20dc13608abfad7949e648605cc59&)
+- Que en una escena bien épica salga el Mario Roblox para que solo diga...  h o l a (referencia a cuando ese usuario logro meter su presentación al mes Loquendero cuando se suponen que están prohibidas xdd)
+- Mes del Loquendo, que tal una escena donde quienes participaron en el mes loquendo interactuen y un breve repaso de sus videos con el participaron.
 - a
 - a
+- a
+- a
+  
