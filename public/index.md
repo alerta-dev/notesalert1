@@ -50,5 +50,16 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 ```Contexto 2024:``` Es el canal donde me gustaría que pongan contexto de echos, eventos, situaciones, dinamicas, cosas que han sucedido en la comunidad y que sean de relevansia, coloquemos el contexto para poder comprender y escribir alguna que otra escena.
 
 ### Ideas de escenas
+> Torneos / Concursos / Actividades de Grupos
+- Last One Standing (Torneo del peleas en el coliseo)
+- Big Loquendo House (Torneo Loquendero)
+- MesDelLoquendo
 - a
 - a
+- a
+- a
+- a
+  
+> Sucesos de la comunidad
+
+- tio ozzy
