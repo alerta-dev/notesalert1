@@ -96,7 +96,7 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - Pongan a Pancho y a Conejetes peleandose en un cerro a machetazos para ver quién es el mejor torneo loquendo de la actualidad. **(Falta Contexto)**
 - Una escena de la tierlist diciendo no mames son un chingo.
 - aaaa
-- aa
+- ~~aa~~
 
 > Videos Relevantes
 
