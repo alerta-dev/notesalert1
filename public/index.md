@@ -51,8 +51,8 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 
 ### Ideas de escenas
 > Torneos / Concursos / Actividades de Grupos
-- __Last One Standing__ (Torneo del peleas en el coliseo)
-- __Big Loquendo House__ (Torneo Loquendero)
+- __Last One Standing:__ (Torneo del peleas en el coliseo)
+- __Big Loquendo House:__ (Torneo Loquendero)
 - __MesDelLoquendo:__
 - __La Carrera Loquendera:__
 - __Copa Mundial del Loquendo 2024:__
