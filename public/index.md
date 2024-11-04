@@ -64,7 +64,7 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 > Sucesos de la comunidad
 
 - Tio Ozzy: Bolly publica una noticia falsa sobre la muerte de Ozzy y trolea a toda la comunidad.
-- La pelea de tenshinhan888 y Princepride: Sin contexto.
+- La pelea de tenshinhan888 y Princepride: **(Falta contexto)**
 - Serro Loquendo (Sentido Loquendo): Sentido Loquendo dejo de ser tan activo como antes, posteriormente a eso le cambiaron el nombre a Serro Loquendo.
 - Estación Loquendo: Nacimiento del grupo.
 - Pou triste en Estación Loquendo: memes con el pou triste.
@@ -83,8 +83,13 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - una loquendera invoca para a un loquendero porque es una pinche vieja loca que esta enamorado el, y lo sigue en toda la carretera de loquendo city, al final aparece resi cupido dando cierre la ecena. [Enlace](https://cdn.discordapp.com/attachments/945239276084420638/1303040058198196346/verbalase-charlie.gif?ex=672a4e1f&is=6728fc9f&hm=b32300b262a8ede1c10211c0308fe7d8c9a20dc13608abfad7949e648605cc59&)
 - Que en una escena bien épica salga el Mario Roblox para que solo diga...  h o l a (referencia a cuando ese usuario logro meter su presentación al mes Loquendero cuando se suponen que están prohibidas xdd)
 - Mes del Loquendo, que tal una escena donde quienes participaron en el mes loquendo interactuen y un breve repaso de sus videos con el participaron.
-- Monika tomando el control del video brevemente para decir algo sin sentido o alguna estupidez que tenga que ver con cosas de este año 
-- a
-- a
-- a
+- Monika tomando el control del video brevemente para decir algo sin sentido o alguna estupidez que tenga que ver con cosas de este año. 
+- Una escena donde aparezca el BLH diciendo reviví kbrones.
+- Lordspeaker papeando audioseries: **(Falta Contexto)**
+- loquendo city volviendose una isla debido a una explosión (Por el BLH)
+- Una escena de como fue creado el loquendo desde el primer video loquendo hasta lo que somos.
+- que tal una escena basada en la copa america 2024 con los usuarios peleandose y coleandose en los asientos.
+- una escena donde el fos salga en el basuredo abandonado....
+- Una escena donde resi diciendo que ya casi muestra su adelanto del fos.
+- Pongan a Pancho y a Conejetes peleandose en un cerro a machetazos para ver quién es el mejor torneo loquendo de la actualidad. **(Falta Contexto)**
   
