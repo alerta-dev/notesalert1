@@ -60,6 +60,8 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - Collab de Verano: Estación Loquendo creo un collab de verano.
 - Tierlist Loquendera: Se realiza la tierlist de este año, teniendo 1743 loquenderos en ella, algunos de GTA se quejaron, pero mas halla de eso fue buena actividad.
 - Estación Mónica: Estación Loquendo fue invadido por monica, el grupo se comenzo a glichear y no entendi el resto del evento.
+- Collab de los carnabales: Un pequeño collab que hizo Loquendo Alert.
+- Loquendo Sin Presupuesto 2: **(Falta Contexto)**
   
 > Sucesos de la comunidad
 
@@ -92,4 +94,15 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - una escena donde el fos salga en el basuredo abandonado....
 - Una escena donde resi diciendo que ya casi muestra su adelanto del fos.
 - Pongan a Pancho y a Conejetes peleandose en un cerro a machetazos para ver quién es el mejor torneo loquendo de la actualidad. **(Falta Contexto)**
+- Una escena de la tierlist diciendo no mames son un chingo.
+- aaaa
+- aa
+
+> Videos Relevantes
+
+- a
+- a
+- a
+- a
+
   
