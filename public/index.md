@@ -53,20 +53,20 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 > Torneos / Concursos / Actividades de Grupos
 - __Last One Standing__ (Torneo del peleas en el coliseo)
 - __Big Loquendo House__ (Torneo Loquendero)
-- __MesDelLoquendo__
-- __La Carrera Loquendera__
-- __Copa Mundial del Loquendo 2024__
-- __Entrega de Premios Loquendo__
+- __MesDelLoquendo:__
+- __La Carrera Loquendera:__
+- __Copa Mundial del Loquendo 2024:__
+- __Entrega de Premios Loquendo:__
 - __Collab de Verano__: Estación Loquendo creo un collab de verano.
 - __Tierlist Loquendera:__ Se realiza la tierlist de este año, teniendo 1743 loquenderos en ella, algunos de GTA se quejaron, pero mas halla de eso fue buena actividad.
 - __Estación Mónica:__ Estación Loquendo fue invadido por monica, el grupo se comenzo a glichear y no entendi el resto del evento.
 - __Collab de los carnabales:__ Un pequeño collab que hizo Loquendo Alert.
-- __Loquendo Sin Presupuesto 2:__ **(Falta Contexto)**
+- __Loquendo Sin Presupuesto 2:__ ```(Falta Contexto)```
   
 > Sucesos de la comunidad
 
 - __Tio Ozzy:__ Bolly publica una noticia falsa sobre la muerte de Ozzy y trolea a toda la comunidad.
-- __La pelea de tenshinhan888 y Princepride:__ **(Falta contexto)**
+- __La pelea de tenshinhan888 y Princepride:__ ```(Falta contexto)```
 - __Serro Loquendo (Sentido Loquendo):__ Sentido Loquendo dejo de ser tan activo como antes, posteriormente a eso le cambiaron el nombre a Serro Loquendo.
 - __Estación Loquendo:__ Nacimiento del grupo.
 - __Pou triste en Estación Loquendo:__ memes con el pou triste.
@@ -87,13 +87,13 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - Mes del Loquendo, que tal una escena donde quienes participaron en el mes loquendo interactuen y un breve repaso de sus videos con el participaron.
 - Monika tomando el control del video brevemente para decir algo sin sentido o alguna estupidez que tenga que ver con cosas de este año. 
 - Una escena donde aparezca el BLH diciendo reviví kbrones.
-- Lordspeaker papeando audioseries: **(Falta Contexto)**
-- loquendo city volviendose una isla debido a una explosión (Por el BLH)
+- Lordspeaker papeando audioseries: ```(Falta Contexto)```
+- loquendo city volviendose una isla debido a una explosión ```(Por el BLH)```
 - Una escena de como fue creado el loquendo desde el primer video loquendo hasta lo que somos.
 - que tal una escena basada en la copa america 2024 con los usuarios peleandose y coleandose en los asientos.
 - una escena donde el fos salga en el basuredo abandonado....
 - Una escena donde resi diciendo que ya casi muestra su adelanto del fos.
-- Pongan a Pancho y a Conejetes peleandose en un cerro a machetazos para ver quién es el mejor torneo loquendo de la actualidad. **(Falta Contexto)**
+- Pongan a Pancho y a Conejetes peleandose en un cerro a machetazos para ver quién es el mejor torneo loquendo de la actualidad. ```(Falta Contexto)```
 - Una escena de la tierlist diciendo no mames son un chingo.
 - aaaa
 - ~~aa~~
