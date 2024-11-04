@@ -51,28 +51,28 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 
 ### Ideas de escenas
 > Torneos / Concursos / Actividades de Grupos
-- Last One Standing (Torneo del peleas en el coliseo)
-- Big Loquendo House (Torneo Loquendero)
-- MesDelLoquendo
-- La Carrera Loquendera
-- Copa Mundial del Loquendo 2024
-- Entrega de Premios Loquendo
-- Collab de Verano: Estación Loquendo creo un collab de verano.
-- Tierlist Loquendera: Se realiza la tierlist de este año, teniendo 1743 loquenderos en ella, algunos de GTA se quejaron, pero mas halla de eso fue buena actividad.
-- Estación Mónica: Estación Loquendo fue invadido por monica, el grupo se comenzo a glichear y no entendi el resto del evento.
-- Collab de los carnabales: Un pequeño collab que hizo Loquendo Alert.
-- Loquendo Sin Presupuesto 2: **(Falta Contexto)**
+- __Last One Standing__ (Torneo del peleas en el coliseo)
+- __Big Loquendo House__ (Torneo Loquendero)
+- __MesDelLoquendo__
+- __La Carrera Loquendera__
+- __Copa Mundial del Loquendo 2024__
+- __Entrega de Premios Loquendo__
+- __Collab de Verano__: Estación Loquendo creo un collab de verano.
+- __Tierlist Loquendera:__ Se realiza la tierlist de este año, teniendo 1743 loquenderos en ella, algunos de GTA se quejaron, pero mas halla de eso fue buena actividad.
+- __Estación Mónica:__ Estación Loquendo fue invadido por monica, el grupo se comenzo a glichear y no entendi el resto del evento.
+- __Collab de los carnabales:__ Un pequeño collab que hizo Loquendo Alert.
+- __Loquendo Sin Presupuesto 2:__ **(Falta Contexto)**
   
 > Sucesos de la comunidad
 
-- Tio Ozzy: Bolly publica una noticia falsa sobre la muerte de Ozzy y trolea a toda la comunidad.
-- La pelea de tenshinhan888 y Princepride: **(Falta contexto)**
-- Serro Loquendo (Sentido Loquendo): Sentido Loquendo dejo de ser tan activo como antes, posteriormente a eso le cambiaron el nombre a Serro Loquendo.
-- Estación Loquendo: Nacimiento del grupo.
-- Pou triste en Estación Loquendo: memes con el pou triste.
-- Entrevista con la voz de carlos de loquendo: Un grupo de loquenderos entrevistaron a la voz de carlos loquendo.
-- Demanda a Trolencio911: Por la demanda que le hicieron por mostrar una marca en uno de sus videos. Marcas de compañías colombianas que se mostraron.
-- Los void memes: Los void memes surgieron en toda comunidad hispana, pero los loquenderos resonaron en esos memes
+- __Tio Ozzy:__ Bolly publica una noticia falsa sobre la muerte de Ozzy y trolea a toda la comunidad.
+- __La pelea de tenshinhan888 y Princepride:__ **(Falta contexto)**
+- __Serro Loquendo (Sentido Loquendo):__ Sentido Loquendo dejo de ser tan activo como antes, posteriormente a eso le cambiaron el nombre a Serro Loquendo.
+- __Estación Loquendo:__ Nacimiento del grupo.
+- __Pou triste en Estación Loquendo:__ memes con el pou triste.
+- __Entrevista con la voz de carlos de loquendo:__ Un grupo de loquenderos entrevistaron a la voz de carlos loquendo.
+- __Demanda a Trolencio911:__ Por la demanda que le hicieron por mostrar una marca en uno de sus videos. Marcas de compañías colombianas que se mostraron.
+- __Los void memes:__ Los void memes surgieron en toda comunidad hispana, pero los loquenderos resonaron en esos memes
 
 > Ideas de Escenas
 
