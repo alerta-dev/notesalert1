@@ -76,6 +76,7 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 
 > Ideas de Escenas
 
+- La idea de esta escena es continuar desde el rewind pasado (Donde diosito le tira un yunke al alert) Esto hace que alert se fuera al cielo, ve a muchos loquenderos muertos, pero hace algo que enojo a todos y lo tiran al infierno donde hay loquenderos cuestionables (obviamete de formato meme) Luego de ahi hagan los chistes que gusten xd
 - Algo de los 8 meses entre el Hit 2 y Hit 3 del blh.
 - Algo relacionado a la gran carrera loqundera y como literal solo 1 entrego al final.
 - Kanesido desvinculandose de la comunidad diciendo que no le importa q lo funen por cancelar el torneo.
