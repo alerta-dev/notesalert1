@@ -102,7 +102,7 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 
 - [Onion vs Radox "The Last One Standing" (Loquendo)](https://youtu.be/huBI95w8uTs) **Onion**
 - [LEYENDAS del LOQUENDO #1: "La VOZ de CARLOS" — FABIO ARCINIEGAS](https://www.youtube.com/live/gK5x34GcbGg?si=5bMgk6G4VUrBKkQH) **Kubera Leez**
-- [Hablemos de ''El Loquendo Actual''.](https://youtu.be/JQz8UXqQdDo?si=n-91CHbHRzFTmJ6s) **Airen**
+- [Hablemos de ''El Loquendo Actual''.](https://youtu.be/JQz8UXqQdDo?si=n-91CHbHRzFTmJ6s) **Airén**
 - [¡El Auge y Caída de Loquendo City! ¿Qué Salió Mal?](https://youtu.be/7hD98mhbw84) **Luigi STYLE**
 
   
