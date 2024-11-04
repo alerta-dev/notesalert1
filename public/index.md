@@ -58,17 +58,28 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - Copa Mundial del Loquendo 2024
 - Entrega de Premios Loquendo
 - Collab de Verano: Estación Loquendo creo un collab de verano.
-- a
+- Tierlist Loquendera: Se realiza la tierlist de este año, teniendo 1743 loquenderos en ella, algunos de GTA se quejaron, pero mas halla de eso fue buena actividad.
+- Estación Mónica: Estación Loquendo fue invadido por monica, el grupo se comenzo a glichear y no entendi el resto del evento.
   
 > Sucesos de la comunidad
 
 - Tio Ozzy: Bolly publica una noticia falsa sobre la muerte de Ozzy y trolea a toda la comunidad.
-- Tierlist Loquendera: Se realiza la tierlist de este año, teniendo 1743 loquenderos en ella, algunos de GTA se quejaron, pero mas halla de eso fue buena actividad.
 - La pelea de tenshinhan888 y Princepride: Sin contexto.
 - Serro Loquendo (Sentido Loquendo): Sentido Loquendo dejo de ser tan activo como antes, posteriormente a eso le cambiaron el nombre a Serro Loquendo.
 - Estación Loquendo: Nacimiento del grupo.
 - Pou triste en Estación Loquendo: memes con el pou triste.
 - Entrevista con la voz de carlos de loquendo: Un grupo de loquenderos entrevistaron a la voz de carlos loquendo.
-- a
+- Demanda a Trolencio911: Por la demanda que le hicieron por mostrar una marca en uno de sus videos. Marcas de compañías colombianas que se mostraron.
+- Los void memes: Los void memes surgieron en toda comunidad hispana, pero los loquenderos resonaron en esos memes
+
+> Ideas de Escenas
+
+- Algo de los 8 meses entre el Hit 2 y Hit 3 del blh.
+- Algo relacionado a la gran carrera loqundera y como literal solo 1 entrego al final.
+- Kanesido desvinculandose de la comunidad diciendo que no le importa q lo funen por cancelar el torneo.
+- Kanesido dándole el premio a zanz como ganador de la gran carrera 😎 
+- Un serro lleno de los staff de Sentido Loquendo, y de la nada viene un tren y los atropella alv, luego de eso empizan a construir una estación de loquenderos.
+- Poner a Trolencio encerrado en la carcel por la demanda que le hicieron.
+- una loquendera invoca para a un loquendero porque es una pinche vieja loca que esta enamorado el, y lo sigue en toda la carretera de loquendo city, al final aparece resi cupido dando cierre la ecena.
 - a
 - a
