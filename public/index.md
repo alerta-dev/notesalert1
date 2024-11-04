@@ -66,7 +66,7 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 > Sucesos de la comunidad
 
 - __Tio Ozzy:__ Bolly publica una noticia falsa sobre la muerte de Ozzy y trolea a toda la comunidad.
-- __La pelea de tenshinhan888 y Princepride:__ ```(Falta contexto)```
+- __~~La pelea de tenshinhan888 y Princepride:~~__ ```(Falta contexto)```
 - __Serro Loquendo (Sentido Loquendo):__ Sentido Loquendo dejo de ser tan activo como antes, posteriormente a eso le cambiaron el nombre a Serro Loquendo.
 - __Estación Loquendo:__ Nacimiento del grupo.
 - __Pou triste en Estación Loquendo:__ memes con el pou triste.
