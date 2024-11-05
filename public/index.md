@@ -90,7 +90,7 @@ Esa es la idea inicial de los guiones, ¿Podemos experiementar y concordar una m
 - Una escena donde aparezca el BLH diciendo reviví kbrones.
 - Lordspeaker papeando audioseries: ```(Falta Contexto)```
 - loquendo city volviendose una isla debido a una explosión ```(Por el BLH)```
-- Una escena de como fue creado el loquendo desde el primer video loquendo hasta lo que somos.
+- Una escena de como fue creado el loquendo desde el primer video loquendo hasta lo que somos. Podría ser el inicio del rewind, que sea un contador mostrando los videos mas famosos de cada año, hasta llegar a 2024 y que ahi sea el inicio de este rewind. 
 - que tal una escena basada en la copa america 2024 con los usuarios peleandose y coleandose en los asientos.
 - una escena donde el fos salga en el basuredo abandonado....
 - Una escena donde resi diciendo que ya casi muestra su adelanto del fos.
