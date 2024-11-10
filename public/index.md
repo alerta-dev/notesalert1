@@ -7,12 +7,12 @@ comunicar al Staff del proyecto, estaremos ayudandoles a todos en cada cosa que 
 > Intenten ser responsables con las entregas para no quedar en otro proyecto cancelado por falta de compromiso, ya que es lo que menos queremos. 
 
 ### Fichajes
-|    Editores   |  Guionistas   |    Ayudantes | 
-| ------------- |:-------------:|------------- |
-| Wrench        | Alert         | Non          |
-| AifeFox       | -             |              |
-| Aritmell      | -             |              |
-| Hasterbook    | -             |              |
+|    Editores   |  Guionistas   |    Ayudantes | Artistas     | 
+| ------------- |:-------------:|------------- |------------- |
+| Wrench        | Alert         | Non          | Fercraft     |
+| AifeFox       | Ewastic       |              | Alfonso      |
+| Aritmell      | Zoad          |              |
+| Hasterbook    | Drago         |              |
 | DannyKuroki   | -             |              |
 | Univale       | -             |              |
 | Win           | -             |              |
@@ -28,6 +28,20 @@ comunicar al Staff del proyecto, estaremos ayudandoles a todos en cada cosa que 
 | Fugo          | -             |              |
 | Naiks         | -             |              |
 | Ztar          | -             |              |
+| Sangre        |               |               
+| Leo Eldrich   |               |
+| -             |               |
+| -             |               |
+| -             |               |
+| -             |               |
+| -             |               |
+| -             |               |
+| -             |               |
+
+
+
+
+
 
 ### Proceso de creación del video (Editores)
 El proceso de los editores se basa mucho en experimentar. Seguir el guion como su fuera un plano, pero en este plan todos pueden colaborar añadiendo de su propia cosecha, pero todo tipo de cosa que quieran añadir intenten consultarla con el equipo, para ver detalles que podrían llegar a ser inecesarios o que arruinen el chiste de ciertos segmentos. El proceso basico del editor sería seguir el guion y editar segun su estilo. Si hay escenas donde alguien dice un dialogo y no se especifica la persona o queda como **Persona random dialogo** Puedes consultar con el staff y añadir a quien gustes. 
